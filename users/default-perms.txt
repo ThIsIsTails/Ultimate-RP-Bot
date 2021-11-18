@@ -1,0 +1,7 @@
+{
+  "permissions":
+    {
+      "all": false,
+      "manage-permissions": false
+    }
+}
